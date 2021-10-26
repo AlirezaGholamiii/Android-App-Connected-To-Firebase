@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686917601734",
+    "firebase_url": "https://prjfirebasealireza-default-rtdb.firebaseio.com",
+    "project_id": "prjfirebasealireza",
+    "storage_bucket": "prjfirebasealireza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686917601734:android:6e4efbf0a4db62435ecac7",
+        "android_client_info": {
+          "package_name": "com.example.prjfirebasealireza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686917601734-16i03u9v32v8slajo5hd21esoboo0ert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRT4mp27NNRghecJ-or4cvHN6oMaTdpZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686917601734-16i03u9v32v8slajo5hd21esoboo0ert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
